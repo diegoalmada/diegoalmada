@@ -10,7 +10,7 @@ Sou Engenheiro de Software na [@melhorenvio](https://github.com/melhorenvio) e u
 -   MongoDB
 -   Cloud
 
-## Colaboração 💞️
+## Colaboração ✨
 
 Estou sempre aberto a colaborar em projetos que envolvam as seguintes tecnologias:
 
