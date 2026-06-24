@@ -1,6 +1,6 @@
 # Hi, I’m @diegoalmada 👋
 
-Sou Engenheiro de Software na [@melhorenvio](https://github.com/melhorenvio) e um entusiasta de tecnologia e boas práticas de desenvolvimento.
+Sou Engenheiro de Software e um entusiasta de tecnologia e boas práticas de desenvolvimento.
 
 ## Interesses 🚀
 
